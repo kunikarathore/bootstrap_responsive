@@ -1,0 +1,161 @@
+.page-header h1{
+        margin-bottom: 45px;
+        color: #707077;
+}
+
+.head{    font-size: 13px;
+    color: #686869;
+     text-align: center;
+    }
+
+.nav-pills li{
+    font-size: 12px;
+    padding-left: 0px;
+    padding-top: 33px;
+    color: #868686;
+}
+.nav-pills li a{
+color: #868686;
+}
+
+.col-md-5 p{
+    line-height: 0.6;
+}
+
+.col_color{
+        font-family: cursive;
+        font-size: 12px;
+        color: #868686;
+}
+
+.t-row{
+        border-bottom: 1px solid #e5e5e5;
+        margin-top: 32px;
+}
+
+.head span{
+    border: 1px solid #dedede;
+    padding: 4px 13px;
+}
+.head sup {
+        font-size: 9px;
+    color: #6c6c6c;
+}
+.t-shirt{
+        padding-bottom: 20px;
+}
+
+.t-row-border-top{
+        border-top: 6px solid #dddbdc;
+    padding-top: 28px;
+}
+
+.t-row-border-bottom{
+        border-bottom: 6px solid #dddbdc;
+}
+
+.main-div-row{
+        margin-top: 90px;
+}
+.div2{
+        border-bottom: 6px solid #dddbdc;
+    padding-bottom: 21px;
+    padding-right: 0px;
+}
+.div2-div1{
+        font-size: 18px;
+    color: #6C716D;
+}
+.text_class{
+    text-align:right; 
+}
+.div3{
+      padding-right: 0px;
+        padding-top: 16px;
+}
+.button{
+        margin-left: 95%;
+    padding-top: 10px;
+}
+
+.col-lg-8 .col-sm-8 .input-group .input-group-btn {
+ padding-left: 8px;
+}
+.total_1_amount{
+        text-align: right;
+}
+.total_2{
+        padding: 15px 0px;
+}
+.sub_total{
+    border-top: 1px solid #dddbdc;
+    border-bottom: 6px solid #dddbdc;
+}
+.col-lg-3 button{
+        padding: 8px 22px;
+    border-radius: 0;
+}
+.head span {
+    border: 1px solid #dedede;
+    padding: 4px 13px;
+}
+.pop_up_span1{
+        background: #4CAF50;
+    padding: 2px 16px;
+}
+
+.pop_up_span2{
+        background: #00BCD4;
+    padding: 2px 16px;
+}
+
+.col_color p {
+    font-family: cursive;
+    font-size: 16px;
+    color: #868686;
+}
+@media (min-width: 768px){
+.col-sm-3 {
+    width: 25%;
+    margin-bottom: 12px;
+}
+ .checkout{
+            text-align: right;
+    }
+.col-lg-1{
+text-align: center;
+}
+.col-sm-1{
+text-align: center;
+}
+ .desktop{
+         display: none;
+    }
+}
+@media (max-width: 766px){
+    .mobile{
+        display: none;
+    }
+    .alignment{
+    text-align: center;       
+    }
+    .apply{
+        margin-bottom: 20px;
+    }
+    .checkout{
+            text-align: center;
+    }
+
+    .shopping_bag{
+            font-size: 18px;
+    padding: 30px 0 0 0;
+
+    }
+     .desktop{
+         display: block;
+    }
+    .size{
+        padding: 33px 8px 0 0;
+    text-align: right;
+    }
+}
